@@ -4,6 +4,6 @@ num = 1
 
 while(num <= 10):
     cube = num * num * num
-    print(f'Square of {num} is {cube}')
+    print(f'Cube of {num} is {cube}')
     
     num += 1
