@@ -1,0 +1,3 @@
+# Creating variable
+
+var = "Module"
