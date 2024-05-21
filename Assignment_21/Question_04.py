@@ -9,7 +9,7 @@ def odd_num_reverse (num):
             
 # Drive Code 
 
-print("First N Odd Natural Number :")
+print("First N Odd Natural Number in Reverse O:")
 userInput = int(input("Enter N numbers: "))
 
 odd_num_reverse(2 * userInput)
